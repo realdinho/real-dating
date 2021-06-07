@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/rdias/.dotnet/store/|arch|/|tfm|",
+      "/home/rdias/.nuget/packages"
+    ]
+  }
+}
