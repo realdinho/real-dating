@@ -1,14 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "0Vlb48EbsPJk2HmMQOV1XdSf0080UGDWDknsDUXAAAVa24JKe1PUwSYuG1s6m4+4LHwy0Wh4u0pGxzOHYLKmIg==",
+  "dgSpecHash": "j9JKPLy4q6UvUwrh1dLPo9T2ekMeMz5Szz69t1NTkP1UsEYy2xu0U6PyRJiROuyNfyct5NMamerUU0q7vqEtTg==",
   "success": true,
   "projectFilePath": "/home/rdias/Dev/Tutorials/Angular/RealDating/API/API.csproj",
   "expectedPackageFiles": [
+    "/home/rdias/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/home/rdias/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/rdias/.nuget/packages/microsoft.data.sqlite.core/5.0.6/microsoft.data.sqlite.core.5.0.6.nupkg.sha512",
     "/home/rdias/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "/home/rdias/.nuget/packages/microsoft.entityframeworkcore/5.0.6/microsoft.entityframeworkcore.5.0.6.nupkg.sha512",
     "/home/rdias/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.6/microsoft.entityframeworkcore.abstractions.5.0.6.nupkg.sha512",
     "/home/rdias/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.6/microsoft.entityframeworkcore.analyzers.5.0.6.nupkg.sha512",
+    "/home/rdias/.nuget/packages/microsoft.entityframeworkcore.design/5.0.6/microsoft.entityframeworkcore.design.5.0.6.nupkg.sha512",
     "/home/rdias/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.6/microsoft.entityframeworkcore.relational.5.0.6.nupkg.sha512",
     "/home/rdias/.nuget/packages/microsoft.entityframeworkcore.sqlite/5.0.6/microsoft.entityframeworkcore.sqlite.5.0.6.nupkg.sha512",
     "/home/rdias/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/5.0.6/microsoft.entityframeworkcore.sqlite.core.5.0.6.nupkg.sha512",
