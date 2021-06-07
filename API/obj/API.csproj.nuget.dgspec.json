@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/rdias/Dev/Angular/RealDating/API/API.csproj": {}
+    "/home/rdias/Dev/Tutorials/Angular/RealDating/API/API.csproj": {}
   },
   "projects": {
-    "/home/rdias/Dev/Angular/RealDating/API/API.csproj": {
+    "/home/rdias/Dev/Tutorials/Angular/RealDating/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rdias/Dev/Angular/RealDating/API/API.csproj",
+        "projectUniqueName": "/home/rdias/Dev/Tutorials/Angular/RealDating/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/home/rdias/Dev/Angular/RealDating/API/API.csproj",
+        "projectPath": "/home/rdias/Dev/Tutorials/Angular/RealDating/API/API.csproj",
         "packagesPath": "/home/rdias/.nuget/packages/",
-        "outputPath": "/home/rdias/Dev/Angular/RealDating/API/obj/",
+        "outputPath": "/home/rdias/Dev/Tutorials/Angular/RealDating/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/rdias/.nuget/NuGet/NuGet.Config"
@@ -38,6 +38,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
